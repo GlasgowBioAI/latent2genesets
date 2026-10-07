@@ -1,0 +1,9 @@
+# Tested with Python 3.12.11; CUDA GPU recommended for AE/DAE/VAE and XAI.
+numpy==2.4.6
+pandas==2.3.2
+scipy==1.15.3
+scikit-learn==1.7.2
+torch==2.5.1
+captum==0.9.0
+statsmodels==0.14.6
+tqdm==4.70.0

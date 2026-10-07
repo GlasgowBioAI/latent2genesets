@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+results/
+# MSigDB gene sets are not redistributed (see data/gmt/README.md)
+data/gmt/*.gmt
+# expression matrices and GTEx annotations are downloaded by the user (see the READMEs there)
+data/biobombe/*
+!data/biobombe/README.md
+data/gtex/*
+!data/gtex/README.md
